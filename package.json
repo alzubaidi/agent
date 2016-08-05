@@ -1,0 +1,26 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "Node.js device detection package",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/**/*.js"
+  },
+  "keywords": [
+    "device",
+    "detection"
+  ],
+  "author": "Tareq Al-Zubaidi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.1"
+  },
+  "dependencies": {
+    "ua-parser-js": "^0.7.10"
+},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alzubaidi/agent.git"
+  }
+}
