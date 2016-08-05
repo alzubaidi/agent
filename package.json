@@ -1,5 +1,5 @@
 {
-  "name": "agent",
+  "name": "dagent",
   "version": "1.0.0",
   "description": "Node.js device detection package",
   "main": "index.js",
