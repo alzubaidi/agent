@@ -1,4 +1,4 @@
-Welcome to dagent
+dagent
 ===================
 [![Build Status](https://travis-ci.org/alzubaidi/dagent.svg?branch=master)](https://travis-ci.org/alzubaidi/dagent)
 
